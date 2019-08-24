@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="454.225" height="420.531" viewBox="0 0 454.225 420.531">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.877" y1="0.451" x2="-0.791" y2="-0.069" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect width="5.429" height="61.146" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="11.694" height="146.138" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="270" height="183" transform="translate(184.225 236.765)" fill="url(#linear-gradient)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 129.443)">
+      <path id="Path_8" data-name="Path 8" d="M0,0,65.557,18.137,82.852,83.8,12.536,71.157Z" transform="translate(0.027 58.585) rotate(-45)" fill="#39cfee"/>
+      <path id="Path_9" data-name="Path 9" d="M0-2,58.787,38.845v76.614L0,75.631Z" transform="translate(0 60.496)" fill="#6bdaf1"/>
+      <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(3.789 67.151)" clip-path="url(#clip-path)">
+        <g transform="translate(-837 -338.296)">
+          <path id="Path_7" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -315.296)">
+          <path id="Path_7-2" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -292.296)">
+          <path id="Path_7-3" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+      </g>
+      <path id="Path_10" data-name="Path 10" d="M0-1,24.218,15.836v7.082L0,6.126Z" transform="translate(12.449 74.105)" fill="#258ea4"/>
+      <path id="Path_11" data-name="Path 11" d="M0-1,24.218,15.836v7.082L0,6.126Z" transform="translate(12.449 88.719)" fill="#258ea4"/>
+      <path id="Path_12" data-name="Path 12" d="M0-1,24.218,15.836v7.082L0,6.126Z" transform="translate(12.449 103.333)" fill="#258ea4"/>
+      <path id="Path_14" data-name="Path 14" d="M0-1,24.218,15.836v7.082L0,6.126Z" transform="translate(12.449 117.948)" fill="#258ea4"/>
+      <path id="Path_13" data-name="Path 13" d="M59.082-1,0,39.505v77L59.082,76.477Z" transform="translate(58.787 59.268)" fill="#258ea4"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(42.69)">
+      <path id="Path_3" data-name="Path 3" d="M0,0,156.68,43.346,198.016,200.29,29.961,170.065Z" transform="translate(0.063 140.018) rotate(-45)" fill="#39cfee"/>
+      <path id="Path_5" data-name="Path 5" d="M0-2,140.5,95.618V278.727L0,183.539Z" transform="translate(0 141.805)" fill="#6bdaf1"/>
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(9.055 160.49)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-837 -338.296)">
+          <path id="Path_7-4" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -315.296)">
+          <path id="Path_7-5" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -292.296)">
+          <path id="Path_7-6" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -269.296)">
+          <path id="Path_7-7" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -246.296)">
+          <path id="Path_7-8" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -223.296)">
+          <path id="Path_7-9" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+        <g transform="translate(-837 -200.296)">
+          <path id="Path_7-10" data-name="Path 7" d="M0-1,10.04,5.883V18.967L0,12.165Z" transform="translate(837 339.296)" fill="#bcecf6"/>
+        </g>
+      </g>
+      <path id="Path_7-11" data-name="Path 7" d="M0-1,57.88,39.239V56.165L0,16.031Z" transform="translate(29.754 175.72)" fill="#258ea4"/>
+      <path id="Path_7-12" data-name="Path 7" d="M0-1,57.88,39.239V56.165L0,16.031Z" transform="translate(29.754 210.649)" fill="#258ea4"/>
+      <path id="Path_7-13" data-name="Path 7" d="M0-1,57.88,39.239V56.165L0,16.031Z" transform="translate(29.754 245.577)" fill="#258ea4"/>
+      <path id="Path_7-14" data-name="Path 7" d="M0-1,57.88,39.239V56.165L0,16.031Z" transform="translate(29.754 280.505)" fill="#258ea4"/>
+      <path id="Path_6" data-name="Path 6" d="M141.206-1,0,95.808V279.833l141.206-95.665Z" transform="translate(140.502 140.261)" fill="#258ea4"/>
+    </g>
+  </g>
+</svg>
